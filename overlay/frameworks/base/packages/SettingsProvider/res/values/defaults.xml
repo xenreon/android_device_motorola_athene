@@ -19,4 +19,6 @@
 <resources>
     <!-- Set the automatic brightness mode on by default -->
     <bool name="def_screen_brightness_automatic_mode">true</bool>
+    <!-- Enable wifi by default -->
+        <bool name="def_wifi_on">true</bool>
 </resources>
