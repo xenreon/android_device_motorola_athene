@@ -1,2 +1,3 @@
+add_lunch_combo carbon_athene-user
 add_lunch_combo carbon_athene-userdebug
 add_lunch_combo carbon_athene-eng
